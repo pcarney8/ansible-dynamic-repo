@@ -1,0 +1,6 @@
+{ "db":
+[ 
+	{ "entry1" : "hello"},
+	{"entry2" : "world"}
+]
+}
